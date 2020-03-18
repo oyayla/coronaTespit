@@ -9,3 +9,5 @@ ama tkinter kütüphanesi classlar ile pek barışık değil sanırım. Yinede b
 Zaman ayırdığınız için teşekkürler.
 
 Yapan kişi : Osman Yayla
+
+KeroKOD 1. Ödev
